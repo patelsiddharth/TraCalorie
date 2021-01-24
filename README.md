@@ -2,4 +2,4 @@
 
 Simple App to add meal and track calories
 
-Live : https://github.com/patelsiddharth/TraCalorie.git
+Live : https://patelsiddharth.github.io/TraCalorie/
